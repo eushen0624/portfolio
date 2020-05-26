@@ -20,7 +20,7 @@ const UserHeader = ({ user }) => {
       </Header>
       <div>
         <ViewResumeLink
-          href={`https://gitconnected.com/${user.basics.username}/resume`}
+          href={`https://drive.google.com/file/d/1GW54JpbEvrSCxccJz5YoMIXIdcVxyQ42/view?usp=sharing`}
           target="_blank"
           rel="noopener noreferrer"
         >
